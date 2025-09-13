@@ -5,3 +5,6 @@
 
 ## 조작법
 - 마우스 드래그로 숫자 10을 맞춰서 점수 얻기
+
+## 게임 화면
+<img width="696" height="391" alt="Image" src="https://github.com/user-attachments/assets/b6e8795e-c6d9-4b77-b46f-68fd1d98bc62" />
